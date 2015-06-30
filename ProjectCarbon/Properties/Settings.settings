@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectCarbon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StartUpWindows" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartUpMinimized" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartUpCapture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProtocolFilterType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PacketListBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Window</Value>
+    </Setting>
+    <Setting Name="PacketListTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">WindowText</Value>
+    </Setting>
+    <Setting Name="PacketDisplayFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">WindowText</Value>
+    </Setting>
+    <Setting Name="PacketDisplayBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Window</Value>
+    </Setting>
+    <Setting Name="PacketDisplayFontFace" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Courier New, 9.75pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="AutoScrollPacketList" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ToolbarVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StatusBarVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PacketListVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PacketDisplayVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
